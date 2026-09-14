@@ -30,7 +30,7 @@ Développeuse Full-Stack et Ingénieure Cloud/DevOps, spécialisée en développ
 
 **Tests & Qualité**
 
-![SonarQube](https://img.shields.io/badge/-%20-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-%20-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white)
 ![Trivy](https://img.shields.io/badge/-%20-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
 
 **Systèmes**
