@@ -50,9 +50,11 @@ Actuellement **Ingénieure DevOps chez JobGate**, j'encadre des étudiants en st
 
 ### 🔍 Qualité & Sécurité
 
+### 🔍 Qualité & Sécurité
+
 <p>
-  <img src="https://skillicons.dev/icons?i=sonarqube" />
-  <img src="https://skillicons.dev/icons?i=trivy" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" />
 </p>
 
 ### 🖥️ Systèmes & Virtualisation
