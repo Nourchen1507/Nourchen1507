@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=600&height=28&lines=Salut+👋+Je+suis+Nourchene+Hedfi;Ing%C3%A9nieure+Cloud+%26+DevOps;D%C3%A9veloppeuse+Full-Stack;Azure+%7C+Spring+Boot+%7C+Next.js;Formatrice+DevOps+chez+JobGate;Ravie+de+vous+rencontrer+....&center=true">
-</p>
-
-### Bienvenue sur mon profil GitHub ! Je suis Nourchene Hedfi.
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=600&height=28&lines=Salut+👋+Je+suis+Nourchene+Hedfi;Ing%C3%A9nieure+Cloud+%26+DevOps;D%C3%A9veloppeuse+Full-Stack;Azure+%7C+Spring+Boot+%7C+Next.js;Formatrice+DevOps+chez+JobGate;Ravie+de+vous+rencontrer+....&center=true"> </p>
+Bienvenue sur mon profil GitHub ! Je suis Nourchene Hedfi.
 
 Développeuse Full-Stack et Ingénieure Cloud/DevOps, spécialisée en développement d'applications web (Angular, Next.js, Spring Boot, ASP.NET) et déploiement sur Microsoft Azure. Expérience en API REST, tests unitaires/intégration (JUnit, xUnit), conteneurisation Docker/Kubernetes, automatisation CI/CD (GitHub Actions, Jenkins, Azure DevOps) et encadrement technique / formation DevOps. Actuellement Ingénieure DevOps chez JobGate, où j'encadre des étudiants en stage PFE et anime des formations DevOps.
 
