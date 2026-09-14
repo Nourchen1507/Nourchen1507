@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2FA4E4&width=600&height=28&lines=Salut+👋+Je+suis+Nourchene+Hedfi;Ing%C3%A9nieure+Cloud+%26+DevOps;D%C3%A9veloppeuse+Full-Stack;Azure+%7C+Spring+Boot+%7C+Next.js;Formatrice+DevOps+chez+JobGate;Ravie+de+vous+rencontrer+....&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=600&height=28&lines=Salut+👋+Je+suis+Nourchene+Hedfi;Ing%C3%A9nieure+Cloud+%26+DevOps;D%C3%A9veloppeuse+Full-Stack;Azure+%7C+Spring+Boot+%7C+Next.js;Formatrice+DevOps+chez+JobGate;Ravie+de+vous+rencontrer+....&center=true">
 </p>
 
 ### Bienvenue sur mon profil GitHub ! Je suis Nourchene Hedfi.
